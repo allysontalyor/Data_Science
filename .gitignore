@@ -1,5 +1,5 @@
 # prevents any large data csvs from being pushed to github
-csvs
+csvs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
