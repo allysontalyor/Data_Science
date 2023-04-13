@@ -1,4 +1,4 @@
-#
+# prevents any large data csvs from being pushed to github
 csvs
 
 # Byte-compiled / optimized / DLL files
